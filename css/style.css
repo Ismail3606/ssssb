@@ -1,47 +1,29 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 0%;
+    padding: 0%;
 
 }
 .header{
-    width: 100%;
-    background-color: bisque;
-    color: black;
-    height: 100px;
-    text-align: center;
-
-
-}
-.left_content{
-    width: 50%;
-
     background-color: blue;
-    color: black;
-    height: 400px;
-    
-    float: left;
-    text-align: center;
-}
-.right_content{
-    width: 50%;
-    background-color: blueviolet;
-    height: 400px;
-    color: navy;
-
-    float: right;
-    text-align: center;
-}
-.main_content{
-    background-color: orange;
-    height: 300px;
-    text-align: center;
-}
-.content{
-    overflow: hidden;
-
-}
-.footer{
-    background-color: orangered;
     height: 100px;
     text-align: center;
+}
+.nav{
+width: 30%;
+height: 400px;
+background-color: brown;
+float: left;
+}
+.article{
+    width: 50%;
+    height: 400px;
+    background-color: chocolate;
+    float: left;
+
+}
+.ads{
+    width: 20%;
+    height: 400px;
+    background-color: cyan;
+    float: left;
 }
